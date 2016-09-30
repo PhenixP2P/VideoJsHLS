@@ -1,0 +1,23 @@
+{
+  "name": "video.js-contrib-hls-bower",
+  "private": false,
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PhenixP2P/VideoJsHLS.git"
+  },
+  "scripts": {
+    "preinstall": "npm prune",
+    "postinstall": "bower install --config.interactive=false",
+    "pretest": "npm install"
+  },
+  "dependencies": {
+    "videojs-contrib-hls": "3.6.0"
+  },
+  "engines": {
+    "node": "4.4.7"
+  },
+  "devDependencies": {
+    "bower": "1.7.9"
+  }
+}

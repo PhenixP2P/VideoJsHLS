@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "preinstall": "bower prune"
+  },
+  "analytics": false,
+  "interactive": false
+}

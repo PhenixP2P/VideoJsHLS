@@ -1,0 +1,26 @@
+{
+  "name": "videojs-contrib-hls",
+  "description": "video.js HLS Source Handler",
+  "keywords": [
+    "HLS",
+    "Live",
+    "video.js"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/PhenixP2P/VideoJsHLS",
+  "private": false,
+  "main": "dist/videojs-contrib-hls.js",
+  "moduleType": "amd",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PhenixP2P/VideoJsHLS.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "ignore": [
+    "package.json",
+    ".*"
+  ]
+}
